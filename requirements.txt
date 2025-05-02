@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community # For ChromaDB, DocumentLoaders etc.
+chromadb
+newsapi-python
+python-dotenv
+tiktoken # Often needed by LangChain text splitters
+requests
+beautifulsoup4
+protobuf==3.20.3# Though not used in Phase 1, good to have for Phase 2
